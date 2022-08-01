@@ -1,0 +1,2 @@
+# ARC_Contest_2022_Project_Shopping-master
+此專案是專題小組參加ARC Contest 2022並獲得佳作的作品。
